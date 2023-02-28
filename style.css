@@ -156,22 +156,39 @@ div{
 }
 .box3{
     height: 300px;
-    width:300px;
+    width:330px;
     background-color: aqua;
 }
 .box4{
     height: 300px;
-    width:300px;
+    width:330px;
     background-color:rebeccapurple;
 }
 .box5{
     height: 300px;
-    width:300px;
+    width:330px;
     background-color:red;
 }
 .box6{
     height: 300px;
-    width:300px;
+    width:330px;
     background-color:blueviolet;
     float:left;
+}
+.social{
+    margin: 100px;
+    
+    width: 40px;
+    height: 42px;
+    background-image: url(images/social.png);
+    background-repeat: no-repeat;
+    
+    background-position: 0 -42;
+
+    border-radius: 50%;
+    transition:1s;
+}
+
+.social:hover{
+    background-position:0 -83px;
 }
