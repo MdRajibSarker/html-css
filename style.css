@@ -35,7 +35,7 @@ p{
     color:blue;
     text-transform:capitalize;
     text-indent:50px;
-}
+} 
 .div1{
     position:fixed;
 }
@@ -140,4 +140,38 @@ margin:auto;
     color:white;
     background-color:black;
     position:sticky;
+}
+.img1{
+    width:400px;
+  
+    float:left;
+}
+/* .para4{
+    color:blue;
+} */
+
+div{
+    float:left;
+    margin:auto;
+}
+.box3{
+    height: 300px;
+    width:300px;
+    background-color: aqua;
+}
+.box4{
+    height: 300px;
+    width:300px;
+    background-color:rebeccapurple;
+}
+.box5{
+    height: 300px;
+    width:300px;
+    background-color:red;
+}
+.box6{
+    height: 300px;
+    width:300px;
+    background-color:blueviolet;
+    float:left;
 }
